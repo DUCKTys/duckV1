@@ -2,7 +2,8 @@
 Bot Beta fitur baru dikit
 
 
-#Code Termux
+##Code Termux
+```
 pkg update && pkg upgrade
 pkg install nodejs
 pkg install libwebp
@@ -15,6 +16,8 @@ termux-setup-storage
 git clone https://github.com/DUCKTys/duckV1.git
 cd duckV1
 yarn install
-
-#Run
+```
+##Run
+```
 node index.js
+```
